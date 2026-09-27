@@ -1,0 +1,4 @@
+com\grabfood\cache\DemoApplication.class
+com\grabfood\cache\config\CacheConfig.class
+com\grabfood\cache\model\Food.class
+com\grabfood\cache\service\FoodService.class
